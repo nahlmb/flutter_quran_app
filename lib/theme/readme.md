@@ -1,0 +1,1 @@
+folder Theme berisi konfigurasi tema aplikasi, mulai dari warna yang dipakai, font, dan lain lainnya.
